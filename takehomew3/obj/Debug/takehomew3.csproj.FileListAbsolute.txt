@@ -1,0 +1,12 @@
+C:\Users\surab\source\repos\takehomew3\takehomew3\bin\Debug\takehomew3.exe.config
+C:\Users\surab\source\repos\takehomew3\takehomew3\bin\Debug\takehomew3.exe
+C:\Users\surab\source\repos\takehomew3\takehomew3\bin\Debug\takehomew3.pdb
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.csproj.AssemblyReference.cache
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.csproj.SuggestedBindingRedirects.cache
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.mainwindowform.resources
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.Properties.Resources.resources
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.secondwinform.resources
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.csproj.GenerateResource.cache
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.csproj.CoreCompileInputs.cache
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.exe
+C:\Users\surab\source\repos\takehomew3\takehomew3\obj\Debug\takehomew3.pdb
