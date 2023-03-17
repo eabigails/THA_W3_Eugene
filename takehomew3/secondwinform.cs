@@ -32,15 +32,16 @@ namespace takehomew3
 
         private void checkBox_term_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox_term.Checked)
+            if (checkBox_choicestrue.Checked)
+            {
+                button_magic.Enabled = true;
+            }
+            else if (checkBox_term.Checked)
             {
 
                 button_magic.Enabled = true;
             }
-            else if (checkBox_choicestrue.Checked)
-            {
-                button_magic.Enabled = true;
-            }
+           
             else
             {
                 button_magic.Enabled = false;
@@ -81,6 +82,13 @@ namespace takehomew3
             if (radioButton_yellow.Checked)
             {
                 mainwindowform.instance.ForeColor= Color.Yellow;
+            }
+
+            else
+
+            {
+                string a = "Please choose the choices";
+                MessageBox.Show(a, "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
     }
